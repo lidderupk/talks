@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>http://localhost:8820/about.html</loc>
+        <lastmod>2013-09-24</lastmod>
+    </url>
+    <url>
+        <loc>http://localhost:8820/blog/2019/chatbot-moderator/07.10.19.build-a-chabot-moderator.html</loc>
+        <lastmod>2019-07-10</lastmod>
+    </url>
+    <url>
+        <loc>http://localhost:8820/blog/2019/intro-ml/05.22.intro.machine.learning.html</loc>
+        <lastmod>2019-05-22</lastmod>
+    </url>
+    <url>
+        <loc>http://localhost:8820/blog/2019/spark/08.21.19.spark.ml.html</loc>
+        <lastmod>2019-05-09</lastmod>
+    </url>
+    <url>
+        <loc>http://localhost:8820/blog/2019/postman-api/08.28.19.serverless.postman.html</loc>
+        <lastmod>2019-05-09</lastmod>
+    </url>
+    <url>
+        <loc>http://localhost:8820/blog/2019/pandas/07.20.19.pandas.html</loc>
+        <lastmod>2019-05-09</lastmod>
+    </url>
+    <url>
+        <loc>http://localhost:8820/blog/2019/couchdb/05.09.couchdb.html</loc>
+        <lastmod>2019-05-09</lastmod>
+    </url>
+    <url>
+        <loc>http://localhost:8820/blog/2019/analytics-chatbot/11.06.18.analytics-chatbot.html</loc>
+        <lastmod>2018-11-06</lastmod>
+    </url>
+    <url>
+        <loc>http://localhost:8820/blog/2019/deploy-chatbot/10.31.18.deploy-chatbot.html</loc>
+        <lastmod>2018-10-31</lastmod>
+    </url>
+    <url>
+        <loc>http://localhost:8820/blog/2019/empower-chatbot/10.25.18.empower-chatbot.html</loc>
+        <lastmod>2018-10-25</lastmod>
+    </url>
+    <url>
+        <loc>http://localhost:8820/blog/2019/anatomy-chatbot/10.17.18.anatomy-chatbot.html</loc>
+        <lastmod>2018-10-17</lastmod>
+    </url>
+</urlset>
