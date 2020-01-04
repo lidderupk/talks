@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JBake</title>
+    <link>http://localhost:8820</link>
+    <atom:link href="http://localhost:8820/feed.xml" rel="self" type="application/rss+xml" />
+    <description>JBake Bootstrap Template</description>
+    <language>en-gb</language>
+    <pubDate>Sat, 4 Jan 2020 13:04:41 -0800</pubDate>
+    <lastBuildDate>Sat, 4 Jan 2020 13:04:41 -0800</lastBuildDate>
+
+    <item>
+      <title>Build a moderator using NLP, VR and Serverless</title>
+      <link>http://localhost:8820/blog/2019/chatbot-moderator/07.10.19.build-a-chabot-moderator.html</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 -0700</pubDate>
+      <guid isPermaLink="false">blog/2019/chatbot-moderator/07.10.19.build-a-chabot-moderator.html</guid>
+      	<description>
+	&lt;p&gt;Most of us use some sort of messaging/collaboration applications in our work places. Join us in this hands-on online meetup to create a chat moderator from scratch. We will be using the following services during the workshop:&lt;/p&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;Natural Language Understanding: to detect different sentiments and emotions in text sent in Slack channels&lt;/li&gt; 
+ &lt;li&gt;Visual Recognition: to detect offensive images sent in Slack channels&lt;/li&gt; 
+ &lt;li&gt;Apache OpenWhisk: to glue together different pieces and create a complete application&lt;br&gt; Who is this workshop for?&lt;/li&gt; 
+ &lt;li&gt;Junior developers who want to see how to glue together different services and build an application from scratch&lt;/li&gt; 
+ &lt;li&gt;Learn about hooking together different APIs using Serverless as the glue&lt;/li&gt; 
+ &lt;li&gt;Developers interested in learning more about IBM services on the cloud&lt;/li&gt; 
+ &lt;li&gt;Fun folks who want to do some pair programming!&lt;/li&gt; 
+&lt;/ul&gt;
+	</description>
+    </item>
+    <item>
+      <title>Introduction to Machine Learning on IBM Watson Studio</title>
+      <link>http://localhost:8820/blog/2019/intro-ml/05.22.intro.machine.learning.html</link>
+      <pubDate>Wed, 22 May 2019 00:00:00 -0700</pubDate>
+      <guid isPermaLink="false">blog/2019/intro-ml/05.22.intro.machine.learning.html</guid>
+      	<description>
+	&lt;p&gt;This is an introduction to Machine Learning using IBM Watson Studio suite of products. We will introduce the tooling followed by a demo of Classification and Regression. Watson Machine Learning empowers your cross-functional team to deploy, monitor and optimize models quickly and easily. Once a model is deployed, APIs are generated automatically to help developers infuse AI into their applications quickly.&lt;/p&gt; 
+&lt;p&gt;We will demo end to end machine learning lifecycle in this demo&lt;/p&gt; 
+&lt;ol&gt; 
+ &lt;li&gt; &lt;p&gt;Gather data and store on IBM Cloud Storage.&lt;/p&gt; &lt;/li&gt; 
+ &lt;li&gt; &lt;p&gt;Data wrangling and cleanup using IBM Refinery.&lt;/p&gt; &lt;/li&gt; 
+ &lt;li&gt; &lt;p&gt;Use Watson Machine Learning to create several classification and regression models.&lt;/p&gt; &lt;/li&gt; 
+ &lt;li&gt; &lt;p&gt;Ask Watson Studio to pick the best performing model for you.&lt;/p&gt; &lt;/li&gt; 
+ &lt;li&gt; &lt;p&gt;Deploy the model and then create a web application for prediction.&lt;/p&gt; &lt;/li&gt; 
+ &lt;li&gt; &lt;p&gt;Learn how to continuously evaluate this model and improve over time.Introduction to Machine Learning on IBM Watson Studio&lt;/p&gt; &lt;/li&gt; 
+&lt;/ol&gt; 
+&lt;pre class=&quot;prettyprint&quot;&gt;&lt;code&gt;
+from sklearn.linear_model import LinearRegression
+import matplotlib.pyplot as plt
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import mean_squared_error, r2_score
+&lt;/code&gt;
+&lt;/pre&gt;
+	</description>
+    </item>
+    <item>
+      <title>Introduction to Apache CouchDB</title>
+      <link>http://localhost:8820/blog/2019/spark/08.21.19.spark.ml.html</link>
+      <pubDate>Thu, 9 May 2019 00:00:00 -0700</pubDate>
+      <guid isPermaLink="false">blog/2019/spark/08.21.19.spark.ml.html</guid>
+      	<description>
+	&lt;p&gt;Join IBM Developer SF to get an introduction to Apache CouchDB - an open-source document-oriented database software that focuses on ease of use and having a scalable architecture.&lt;/p&gt; 
+&lt;p&gt;A database in CouchDB is not a group of tables, but a collection of documents (JSON objects). We will use Cloudant, a hosted version on IBM Cloud, for the demo to avoid spending time installing locally.&lt;/p&gt; 
+&lt;p&gt;We will look at how to create a simple CRUD application in CouchDB and then explore more advance features including:&lt;br&gt; 1. Design Documents to transform, update and validate documents&lt;br&gt; 2. Views to query documents using MapReduce&lt;br&gt; 3. Mango Query Server to write JSON queries&lt;br&gt; 4. HTTP API that makes CouchDB ideal for the web&lt;/p&gt;
+	</description>
+    </item>
+    <item>
+      <title>Build serverless APIs using Postman and Apache OpenWhisk</title>
+      <link>http://localhost:8820/blog/2019/postman-api/08.28.19.serverless.postman.html</link>
+      <pubDate>Thu, 9 May 2019 00:00:00 -0700</pubDate>
+      <guid isPermaLink="false">blog/2019/postman-api/08.28.19.serverless.postman.html</guid>
+      	<description>
+	&lt;p&gt;IBM and Postman are partnering up to show you how to use open source tools to create and test scalable and secure APIs!&lt;/p&gt; 
+&lt;p&gt;Application programming interface, or APIs, are essential to any solution or software and need to be tested individually and in integration with other moving pieces. Testing APIs as an activity can be owned by the developers, the QA testers, or both. The QA team generally does not have access to the code. They write scripts and harnesses to test the APIs. We will show you how easy it is to use Postman to create test cases and scripts that can be run automatically on APIs created on serverless platforms!&lt;/p&gt;
+	</description>
+    </item>
+    <item>
+      <title>Introduction to Apache CouchDB</title>
+      <link>http://localhost:8820/blog/2019/pandas/07.20.19.pandas.html</link>
+      <pubDate>Thu, 9 May 2019 00:00:00 -0700</pubDate>
+      <guid isPermaLink="false">blog/2019/pandas/07.20.19.pandas.html</guid>
+      	<description>
+	&lt;p&gt;Join IBM Developer SF to get an introduction to Apache CouchDB - an open-source document-oriented database software that focuses on ease of use and having a scalable architecture.&lt;/p&gt; 
+&lt;p&gt;A database in CouchDB is not a group of tables, but a collection of documents (JSON objects). We will use Cloudant, a hosted version on IBM Cloud, for the demo to avoid spending time installing locally.&lt;/p&gt; 
+&lt;p&gt;We will look at how to create a simple CRUD application in CouchDB and then explore more advance features including:&lt;br&gt; 1. Design Documents to transform, update and validate documents&lt;br&gt; 2. Views to query documents using MapReduce&lt;br&gt; 3. Mango Query Server to write JSON queries&lt;br&gt; 4. HTTP API that makes CouchDB ideal for the web&lt;/p&gt;
+	</description>
+    </item>
+    <item>
+      <title>Introduction to Apache CouchDB</title>
+      <link>http://localhost:8820/blog/2019/couchdb/05.09.couchdb.html</link>
+      <pubDate>Thu, 9 May 2019 00:00:00 -0700</pubDate>
+      <guid isPermaLink="false">blog/2019/couchdb/05.09.couchdb.html</guid>
+      	<description>
+	&lt;p&gt;Join IBM Developer SF to get an introduction to Apache CouchDB - an open-source document-oriented database software that focuses on ease of use and having a scalable architecture.&lt;/p&gt; 
+&lt;p&gt;A database in CouchDB is not a group of tables, but a collection of documents (JSON objects). We will use Cloudant, a hosted version on IBM Cloud, for the demo to avoid spending time installing locally.&lt;/p&gt; 
+&lt;p&gt;We will look at how to create a simple CRUD application in CouchDB and then explore more advance features including:&lt;br&gt; 1. Design Documents to transform, update and validate documents&lt;br&gt; 2. Views to query documents using MapReduce&lt;br&gt; 3. Mango Query Server to write JSON queries&lt;br&gt; 4. HTTP API that makes CouchDB ideal for the web&lt;/p&gt;
+	</description>
+    </item>
+    <item>
+      <title>Continuously improve your Watson Bot using analytics and metrics</title>
+      <link>http://localhost:8820/blog/2019/analytics-chatbot/11.06.18.analytics-chatbot.html</link>
+      <pubDate>Tue, 6 Nov 2018 00:00:00 -0800</pubDate>
+      <guid isPermaLink="false">blog/2019/analytics-chatbot/11.06.18.analytics-chatbot.html</guid>
+      	<description>
+	&lt;p&gt;Now that you have a bot live and deployed to your favorite social media, how can you continue to gather user feedback and improve your conversation ? How can the bot start to learn new terminology and content using your help ? We will look at the various metrics provided by Watson Assistant as well as adding code to our client and backend to improve our chatbot.&lt;/p&gt; 
+&lt;p&gt;4-part online meetup series (meetup #4)&lt;/p&gt;
+	</description>
+    </item>
+    <item>
+      <title>Deploy your bot to Slack and other social channels</title>
+      <link>http://localhost:8820/blog/2019/deploy-chatbot/10.31.18.deploy-chatbot.html</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 -0700</pubDate>
+      <guid isPermaLink="false">blog/2019/deploy-chatbot/10.31.18.deploy-chatbot.html</guid>
+      	<description>
+	&lt;p&gt;Now that you have a functioning bot, let’s deploy it to slack ! We will explore using the built in Watson Connector as well as the botkit middleware. Additionally, we will see how some of the features of Watson Assistant surface in slack and how you can use features unique to slack to enhance your conversation. We will also briefly go over other social media channels.&lt;/p&gt; 
+&lt;p&gt;4-part online meetup series (meetup #3)&lt;/p&gt;
+	</description>
+    </item>
+    <item>
+      <title>Empower your chatbot and add a personality</title>
+      <link>http://localhost:8820/blog/2019/empower-chatbot/10.25.18.empower-chatbot.html</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 -0700</pubDate>
+      <guid isPermaLink="false">blog/2019/empower-chatbot/10.25.18.empower-chatbot.html</guid>
+      	<description>
+	&lt;p&gt;We built a basic chatbot in part I. We continue the journey by adding more digressions and handlers to our bot thereby giving it a personality. Additionally, we will explore the more advanced features in Watson Assistant using the JSON editor. Finally, we will add a backend service layer built on IBM functions and IBM cloud. This enables our chatbot to queries other systems and databases to better assist the user during a conversation. We will go into the two types of communications offered in Watson Assistant - server and client.&lt;/p&gt; 
+&lt;p&gt;4-part online meetup series (meetup #2)&lt;/p&gt;
+	</description>
+    </item>
+    <item>
+      <title>Anatomy of a chatbot and building a meaningful conversation</title>
+      <link>http://localhost:8820/blog/2019/anatomy-chatbot/10.17.18.anatomy-chatbot.html</link>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 -0700</pubDate>
+      <guid isPermaLink="false">blog/2019/anatomy-chatbot/10.17.18.anatomy-chatbot.html</guid>
+      	<description>
+	&lt;p&gt;Learn the fundamental concepts behind creating a chatbot that can have meaningful and natural conversations. You will learn about the Watson Assistant service and the building blocks of a conversation including intents, entities, slots, digressions, handlers and dialogs. We will also use context variables to remember our users and not get too annoying!&lt;/p&gt; 
+&lt;p&gt;4-part online meetup series (meetup #1)&lt;/p&gt;
+	</description>
+    </item>
+
+  </channel> 
+</rss>
