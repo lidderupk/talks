@@ -6,8 +6,8 @@
     <atom:link href="http://localhost:8820/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Sat, 4 Jan 2020 13:04:41 -0800</pubDate>
-    <lastBuildDate>Sat, 4 Jan 2020 13:04:41 -0800</lastBuildDate>
+    <pubDate>Sat, 4 Jan 2020 17:14:12 -0800</pubDate>
+    <lastBuildDate>Sat, 4 Jan 2020 17:14:12 -0800</lastBuildDate>
 
     <item>
       <title>Build a moderator using NLP, VR and Serverless</title>
@@ -58,9 +58,8 @@ from sklearn.metrics import mean_squared_error, r2_score
       <pubDate>Thu, 9 May 2019 00:00:00 -0700</pubDate>
       <guid isPermaLink="false">blog/2019/spark/08.21.19.spark.ml.html</guid>
       	<description>
-	&lt;p&gt;Join IBM Developer SF to get an introduction to Apache CouchDB - an open-source document-oriented database software that focuses on ease of use and having a scalable architecture.&lt;/p&gt; 
-&lt;p&gt;A database in CouchDB is not a group of tables, but a collection of documents (JSON objects). We will use Cloudant, a hosted version on IBM Cloud, for the demo to avoid spending time installing locally.&lt;/p&gt; 
-&lt;p&gt;We will look at how to create a simple CRUD application in CouchDB and then explore more advance features including:&lt;br&gt; 1. Design Documents to transform, update and validate documents&lt;br&gt; 2. Views to query documents using MapReduce&lt;br&gt; 3. Mango Query Server to write JSON queries&lt;br&gt; 4. HTTP API that makes CouchDB ideal for the web&lt;/p&gt;
+	&lt;p&gt;Spark and PixieDust! What cool names! They also happen to be two of my favorite open source tools to explore and analyze data (also known as &quot;data wrangling&quot; in the cool circles!).&lt;/p&gt; 
+&lt;p&gt;We are going to dive into both of these tools and explore a dataset. We will look at what makes data noisy and what to do with this &quot;noise.&quot; You will also build some pretty cool visualizations using PixieDust! At the end of the workshop, you will have an idea on how to write an interesting and intriguing notebook or report, and how to build a portfolio over time.&lt;/p&gt;
 	</description>
     </item>
     <item>
@@ -79,9 +78,8 @@ from sklearn.metrics import mean_squared_error, r2_score
       <pubDate>Thu, 9 May 2019 00:00:00 -0700</pubDate>
       <guid isPermaLink="false">blog/2019/pandas/07.20.19.pandas.html</guid>
       	<description>
-	&lt;p&gt;Join IBM Developer SF to get an introduction to Apache CouchDB - an open-source document-oriented database software that focuses on ease of use and having a scalable architecture.&lt;/p&gt; 
-&lt;p&gt;A database in CouchDB is not a group of tables, but a collection of documents (JSON objects). We will use Cloudant, a hosted version on IBM Cloud, for the demo to avoid spending time installing locally.&lt;/p&gt; 
-&lt;p&gt;We will look at how to create a simple CRUD application in CouchDB and then explore more advance features including:&lt;br&gt; 1. Design Documents to transform, update and validate documents&lt;br&gt; 2. Views to query documents using MapReduce&lt;br&gt; 3. Mango Query Server to write JSON queries&lt;br&gt; 4. HTTP API that makes CouchDB ideal for the web&lt;/p&gt;
+	&lt;p&gt;This is an introductory session on exploring and analyzing data using Python, Pandas and Jupyter Notebooks. We will go over:&lt;br&gt; - how to obtain/read a data file using python in Watson Studio&lt;br&gt; - how to clean noise in data&lt;br&gt; - selecting and querying data&lt;br&gt; - reshaping and filtering data&lt;br&gt; - grouping data into a hierarchy&lt;br&gt; - simple graphing of data&lt;/p&gt; 
+&lt;p&gt;This is a good session for you if you are&lt;br&gt; - an aspiring data scientist&lt;br&gt; - frequently working with excel files and want another approach to dissect data&lt;br&gt; - a SQL developer looking to get into programming&lt;br&gt; - curious about data in general!&lt;/p&gt;
 	</description>
     </item>
     <item>
