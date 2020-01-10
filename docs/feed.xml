@@ -6,8 +6,8 @@
     <atom:link href="http://localhost:8820/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Sat, 4 Jan 2020 17:14:12 -0800</pubDate>
-    <lastBuildDate>Sat, 4 Jan 2020 17:14:12 -0800</lastBuildDate>
+    <pubDate>Fri, 10 Jan 2020 12:17:53 -0800</pubDate>
+    <lastBuildDate>Fri, 10 Jan 2020 12:17:53 -0800</lastBuildDate>
 
     <item>
       <title>Build a moderator using NLP, VR and Serverless</title>
@@ -53,7 +53,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 	</description>
     </item>
     <item>
-      <title>Introduction to Apache CouchDB</title>
+      <title>Let&apos;s explore some data using Spark, PixieDust and more!</title>
       <link>http://localhost:8820/blog/2019/spark/08.21.19.spark.ml.html</link>
       <pubDate>Thu, 9 May 2019 00:00:00 -0700</pubDate>
       <guid isPermaLink="false">blog/2019/spark/08.21.19.spark.ml.html</guid>
@@ -73,7 +73,7 @@ from sklearn.metrics import mean_squared_error, r2_score
 	</description>
     </item>
     <item>
-      <title>Introduction to Apache CouchDB</title>
+      <title>Introduction to Jupyter Notebook on Watson Studio</title>
       <link>http://localhost:8820/blog/2019/pandas/07.20.19.pandas.html</link>
       <pubDate>Thu, 9 May 2019 00:00:00 -0700</pubDate>
       <guid isPermaLink="false">blog/2019/pandas/07.20.19.pandas.html</guid>

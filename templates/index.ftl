@@ -38,11 +38,24 @@
 											</div>
 										</div>
 										<p>${post.body}</p>
-										<#list post.tags as tag>
-											<item>
-												<span class="button is-info has-text-white">${tag}</span>
-											</item>
-										</#list>
+										<p>
+											<#list post.tags as tag>
+												<item>
+													<span class="button is-info has-text-white is-small">${tag}</span>
+												</item>
+											</#list>
+										</p>
+										<div>
+											<#if post.video_url?has_content>
+												<p><a href="${post.video_url}"><button class="button is-fullwidth is-link is-light">Watch the video!</button></a></p>
+											</#if>
+											<#if post.slides_url?has_content>
+												<p><a href="${post.slides_url}"><button class="button is-fullwidth is-primary is-light">Get the slides!</button></a></p>
+											</#if>
+											<#if post.code_url?has_content>
+												<p><a href="${post.code_url}"><button class="button is-fullwidth is-warning is-light">Get the code!</button></a></p>
+											</#if>
+										</div>
 									</div>
 								</div>
 							</div>
