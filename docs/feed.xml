@@ -6,9 +6,26 @@
     <atom:link href="http://localhost:8820/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Fri, 10 Jan 2020 14:47:12 -0800</pubDate>
-    <lastBuildDate>Fri, 10 Jan 2020 14:47:12 -0800</lastBuildDate>
+    <pubDate>Wed, 15 Jan 2020 12:05:19 -0800</pubDate>
+    <lastBuildDate>Wed, 15 Jan 2020 12:05:19 -0800</lastBuildDate>
 
+    <item>
+      <title>Removing Unfair Bias in Machine Learning</title>
+      <link>http://localhost:8820/blog/2019/aifairness-online/01.15.20.aifairness.html</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 -0800</pubDate>
+      <guid isPermaLink="false">blog/2019/aifairness-online/01.15.20.aifairness.html</guid>
+      	<description>
+	&lt;p&gt;Extensive evidence has shown that AI can embed human and societal bias and deploy them at scale. And many algorithms are now being reexamined due to illegal bias. So how do you remove bias &amp;amp; discrimination in the machine learning pipeline? In this talk you&apos;ll learn the debiasing techniques that can be implemented by using the open source toolkit AI Fairness 360.&lt;/p&gt; 
+&lt;p&gt;AI Fairness 360 (AIF360) is an extensible, open source toolkit for measuring, understanding, and removing AI bias. AIF360 is the first solution that brings together the most widely used bias metrics, bias mitigation algorithms, and metric explainers from the top AI fairness researchers across industry &amp;amp; academia.&lt;/p&gt; 
+&lt;p&gt;In this talk you&apos;ll learn:&lt;/p&gt; 
+&lt;ul&gt; 
+ &lt;li&gt;How to measure bias in your data sets &amp;amp; models&lt;/li&gt; 
+ &lt;li&gt;How to apply the fairness algorithms to reduce bias&lt;/li&gt; 
+ &lt;li&gt;An introductory look at how bias &amp;amp; discrimination can arise within modern machine learning techniques and the methods that can be implemented to tackle those challenges.&lt;/li&gt; 
+ &lt;li&gt;Learn how to evaluate the metrics using the open-source AI Fairness 360 Toolkit to check for fairness and mitigate machine learning model bias.&lt;/li&gt; 
+&lt;/ul&gt;
+	</description>
+    </item>
     <item>
       <title>Build a moderator using NLP, VR and Serverless</title>
       <link>http://localhost:8820/blog/2019/chatbot-moderator/07.10.19.build-a-chabot-moderator.html</link>

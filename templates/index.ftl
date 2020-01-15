@@ -5,10 +5,35 @@
 	 <div class="hero-head">
 	 	<div class="container">
 				<h1 class="title is-1">
-					Talks by Upkar Lidder
+					Dev Talks by Upkar Lidder, Developer Advocate
 				</h1>
-				<h2 class="subtitle has-text-weight-bold is-family-monospace">
-					Here are some of the talks I have given online.
+				<h2 class="is-family-monospace">
+					<p>
+						<a href="https://github.com/lidderupk">
+							<button class="button is-medium">
+								<span class="icon is-medium">
+									<i class="fa fa-github"></i>
+								</span>
+								<span>GitHub</span>
+							</button>
+						</a>
+						<a href="https://www.linkedin.com/in/lidderupk/">
+							<button class="button is-medium">
+								<span class="icon is-medium">
+									<i class="fa fa-linkedin"></i>
+								</span>
+								<span>LinkedIn</span>
+							</button>
+						</a>
+						<a href="https://dev.to/lidderupk">
+							<button class="button is-medium">
+								<span class="icon is-medium">
+									<i class="fa fa-book"></i>
+								</span>
+								<span>dev.to</span>
+							</button>
+						</a>
+					</p>
 				</h2>
 		</div>
 	 </div>
