@@ -6,9 +6,19 @@
     <atom:link href="http://localhost:8820/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Wed, 15 Jan 2020 12:05:19 -0800</pubDate>
-    <lastBuildDate>Wed, 15 Jan 2020 12:05:19 -0800</lastBuildDate>
+    <pubDate>Fri, 20 Mar 2020 09:15:14 -0700</pubDate>
+    <lastBuildDate>Fri, 20 Mar 2020 09:15:14 -0700</lastBuildDate>
 
+    <item>
+      <title>Hands-on workshop: Serverless Workshop with Python and Javascript</title>
+      <link>http://localhost:8820/blog/2020/serverless-python-js-workshop-intro/07.10.19.build-a-chabot-moderator.html</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 -0700</pubDate>
+      <guid isPermaLink="false">blog/2020/serverless-python-js-workshop-intro/07.10.19.build-a-chabot-moderator.html</guid>
+      	<description>
+	&lt;p&gt;Serverless computing refers to a model where the existence of servers is entirely abstracted away. Even though servers exist, developers are relieved from the need to care about their operation. They are relieved from the need to worry about low-level infrastructural and operational details such as scalability, high-availability, infrastructure-security, and other details. Serverless computing is essentially about reducing maintenance efforts to allow developers to quickly focus on developing code that adds value.&lt;/p&gt; 
+&lt;p&gt;🎓 We will work through three labs in this session:&lt;br&gt; Lab1: Create, build, and run a cloud-native JavaScript serverless app in less than 15 minutes&lt;br&gt; Lab2: Create, build, and run a cloud-native JavaScript serverless application that uses the Visual Recognition service to determine image content&lt;br&gt; Lab3: Create, build, and run three serverless functions as a sequence&lt;br&gt; Lab4 (optional): Create, build and run an action that listens for changes in a database using actions, triggers and rules&lt;/p&gt;
+	</description>
+    </item>
     <item>
       <title>Removing Unfair Bias in Machine Learning</title>
       <link>http://localhost:8820/blog/2019/aifairness-online/01.15.20.aifairness.html</link>
